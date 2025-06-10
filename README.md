@@ -22,12 +22,12 @@ This project proves my ability to:
 - Design interactive, stakeholder-facing dashboards with cross-filtering, clean layouts, and storytelling impact
 
 ## Tableau Public Dashboard
-![Tableau Dashboard](dashboard.png)
 👉 [https://public.tableau.com/views/customersegmentation_17495194202810/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+![Tableau Dashboard](dashboard.png)
 
 ## Power BI Report
-![Power BI Dashboard](retail.png)
 👉 (https://github.com/hmunjampally/Retail-Customer-Segmentation)
+![Power BI Dashboard](retail_customers.png)
 
 
 ## Skills Highlighted
